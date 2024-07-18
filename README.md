@@ -17,7 +17,7 @@ I hold a Bachelor's degree in Psychology from the Federal University of Pernambu
 
 ### PIBIC Project: Social Relationship Networks Among 3-Year-Old Children
 - **Description:** Investigation of social relationship networks in early childhood.
-- **Technologies Used:** R, Python
+- **Technologies Used:** Gephi and R
 
 ## Objective
 
